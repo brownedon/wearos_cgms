@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.0.0.aar\\9bf81760953d512efadb5c54953db3c9\\res\\values-v21\\values.xml",
+                    "from": {
+                        "startLines": "4,8,11,15,21,30,42,54,57,61",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "211,403,500,652,950,1550,2194,2837,3006,3186",
+                        "endLines": "7,10,14,18,27,41,53,56,60,64",
+                        "endColumns": "8,8,8,8,8,8,8,8,8,8",
+                        "endOffsets": "402,499,651,805,1405,2193,2836,3005,3185,3363"
+                    },
+                    "to": {
+                        "startLines": "2,6,9,13,17,24,36,48,51,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,251,352,508,666,1126,1774,2421,2594,2778",
+                        "endLines": "5,8,12,16,23,35,47,50,54,58",
+                        "endColumns": "8,8,8,8,8,8,8,8,8,8",
+                        "endOffsets": "246,347,503,661,1121,1769,2416,2589,2773,2955"
+                    }
+                }
+            ]
+        }
+    ]
+}

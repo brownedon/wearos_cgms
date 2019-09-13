@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Povolit"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktivovat služby Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivace služeb Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalovat"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v zařízení nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Instalace služeb Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služeb Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Zkuste to prosím znovu."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovat"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktualizovat služby Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizace služeb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které jsou právě aktualizovány."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otevřít v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Přihlásit se"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Přihlásit se k účtu Google"</string>
+    <string name="sb_accept">Přijmout</string>
+    <string name="sb_app_needs_permission">Aplikace vyžaduje v souboru AndroidManifest.xml oprávnění android.permission.ACCESS_COARSE_LOCATION nebo android.permission.ACCESS_FINE_LOCATION!</string>
+    <string name="sb_deny">Odmítnout</string>
+    <string name="sb_denying_location_access">Zakázání přístupu ke službám zjišťování polohy znamená, že nebude fungovat nízkoenergetické vyhledávání.</string>
+    <string name="sb_location_permission_toast">Klikněte na tlačítko Oprávnění, povolte položku Poloha a stiskněte dvakrát tlačítko Zpět.</string>
+    <string name="sb_location_services_needs_enabling">Systém Android Marshmallow (6.0+) požaduje ke zlepšení vyhledávání zařízení Bluetooth služby zjišťování polohy. Tyto služby nejsou nutné, ale je doporučeno je zapnout, aby bylo možné zlepšit zjišťování zařízení.</string>
+    <string name="sb_location_services_toast">Povolte služby zjišťování polohy a stiskněte tlačítko Zpět.</string>
+    <string name="sb_ok">OK</string>
+    <string name="sb_requires_location_permission">Systém Android Marshmallow (6.0+) požaduje k vyhledávání zařízení Bluetooth oprávnění Poloha. Kliknutím na tlačítko Přijmout povolte oprávnění Poloha.</string>
+    <string name="sb_requires_location_permission_and_services">Systém Android Marshmallow (6.0+) požaduje, aby aplikace, která vyhledává zařízení Bluetooth, měla oprávnění Poloha.\n\nSystém Marshmallow rovněž požaduje ke zlepšení zjišťování zařízení Bluetooth služby zjišťování polohy. Tyto služby nejsou nutné k používání této aplikace, ale jsou doporučeny k lepšímu zjišťování zařízení.\n\nKliknutím na tlačítko Přijmout povolte oprávnění Poloha a služby zjišťování polohy.</string>
+</resources>

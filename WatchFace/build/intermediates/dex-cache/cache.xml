@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\599b71b10f4d53bcb2fda431b865b36770b9e696\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a520e5b3ddb9059201310f2a0c9212fcc3759400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\1b4c42d0f49b376c6e2205dc4456c4bf02bb9a22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b95c7a1ef1fd9b0c7a541ddbdfd01d54606da1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\6b95e7cf2415692ad909b56f0c9d04ee25840eed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15a216f27d7afe4301351c03b52f02e3724c4087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\06e880aa637b12a8b123f3a60c0fa1e3e59495ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52c9e5442ed3e6c68bfd06569b47fa89d168899d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\599b71b10f4d53bcb2fda431b865b36770b9e696\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e956443d5872a80798bbfd827acda293485cf470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eabce6c18ce0214f68f96ac2f1f69016a6c21379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\ca79a78b98056fb0b634058a254bed74ba912079\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50f9617413d77a34a9ebc417ccafc75598ed9054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\5a7e61897123f722437f2eee3e94f1d1543e4b9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6437f3110de64518550c27556571c415f0f93a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\af766fd89bd9fc71f0a5f5d204c76d12b0255522\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_009008280ccdca43da09b357ab9b5c1af26a73a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d13e4086d20840e1b0a73fe9784e0d39e4f25e07">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3808b62d9de83e0d57587ae39d43b082eb8e4598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\9d72401915e35ee004358f79bf8a151dbf93c081\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_150d29cc5e15dfa17cdefb4aa0d5e740b69d108f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\bc08776cf29c95e975e4434b078a267e707cc3d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_413f1761df17aa26c3e45bb6141704de57c91970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\9ed923523ece9b6a8cb21ff9fcb7132cdd39cc78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd22a0d9ee930404d58117853ba44bab6bda3caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\bdbed505628b209cf1248e3f5cb399a2ffbc4672\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d015f4225f8888b4fbf9a2c7fc22fa2abec87a8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\25ed34d95c96807cc18ff774f62e3908f4ecc843\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31b885639282529583edf119038c49c46959a171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\89b8bb3b2c7f8dae455c85b47b3b447c95b984a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e5fb6e2ec6adbc1ae4159ff4d0d27ad835ef5d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\af766fd89bd9fc71f0a5f5d204c76d12b0255522\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cfc6c3e0b3bb860dc6cb0bb9d45bb14e42a38825\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\0e80613fed5439ddfd4ae504ef60c5846c712897\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4da9ff17271a54d9d7c841341ae6ff75ef7c2f99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_f2aaa84361b4de031cb91f3095b9fb12349cec01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\eda1036bec58cd99b50a217cd57c8f58a39ba16f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73fe14471a46f17dffb4c4e55a4418127f019d3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\3a93ae6b8a1d287484b6d418e1c2f9606fc1fd20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f7c957b6a9efcdd8b6606ae42281f2336a0b252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\eda1036bec58cd99b50a217cd57c8f58a39ba16f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d2dd84a2be1045ced364259412a3e699927f1d77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\6234e1cae9d828624933eae65b82bd46cb61b26f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c45667d066b7f1e5ca45952803020ebefc1853ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brown\.android\build-cache\bdbed505628b209cf1248e3f5cb399a2ffbc4672\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\brown\Documents\dev\android\WatchFace\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b97149011f44fef0915b5940ac94bb27a62af7c4\classes.dex" />
+    </item>
+
+</items>

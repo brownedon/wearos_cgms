@@ -1,0 +1,7 @@
+#Thu Oct 19 10:19:46 EDT 2017
+base.0=C\:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eabce6c18ce0214f68f96ac2f1f69016a6c21379
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3808b62d9de83e0d57587ae39d43b082eb8e4598\\classes.dex
+base.1=C\:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3808b62d9de83e0d57587ae39d43b082eb8e4598
+file.0=C\:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eabce6c18ce0214f68f96ac2f1f69016a6c21379\\classes.dex

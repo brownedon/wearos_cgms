@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brown\\Desktop\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nn\\values-nn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brown\\Desktop\\WatchFace\\Wearable\\src\\main\\lib\\sweetblue\\res\\values-nn\\strings.xml",
+                    "from": {
+                        "startLines": "11,3,10,2,4,7,8,9,5,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1594,213,1552,71,390,1145,1407,1515,537,732",
+                        "endColumns": "43,176,41,141,146,261,107,36,194,412",
+                        "endOffsets": "1633,385,1589,208,532,1402,1510,1547,727,1140"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,276,318,460,607,869,977,1014,1209",
+                        "endColumns": "43,176,41,141,146,261,107,36,194,412",
+                        "endOffsets": "94,271,313,455,602,864,972,1009,1204,1617"
+                    }
+                }
+            ]
+        }
+    ]
+}

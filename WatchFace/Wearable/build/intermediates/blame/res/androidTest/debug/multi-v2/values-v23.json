@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.0.0.aar\\9bf81760953d512efadb5c54953db3c9\\res\\values-v23\\values.xml",
+                    "from": {
+                        "startLines": "4,8,12,20",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "211,373,537,938",
+                        "endLines": "7,11,19,21",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "372,536,937,1037"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,221,389,794",
+                        "endLines": "5,9,17,19",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "216,384,789,893"
+                    }
+                }
+            ]
+        }
+    ]
+}

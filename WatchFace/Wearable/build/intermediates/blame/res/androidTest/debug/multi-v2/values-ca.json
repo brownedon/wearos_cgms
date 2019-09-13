@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.0.1.aar\\80ce9978f6ab89495ba1a619fed3a288\\res\\values-ca\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "197",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "1128",
+                        "endColumns": "197",
+                        "endOffsets": "1321"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\986ae86d7a2fcee6d82a3e7644aaa75d\\res\\values-ca\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,386,574,703,810,1022,1151,1286,1523,1630,1824,1957,2185,2372,2463,2557",
+                        "endColumns": "102,187,128,106,211,128,134,236,106,193,132,227,186,90,93,111",
+                        "endOffsets": "385,573,702,809,1021,1150,1285,1522,1629,1823,1956,2184,2371,2462,2556,2668"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,400,533,644,856,989,1326,1563,1674,1868,2005,2233,2424,2519,2617",
+                        "endColumns": "106,187,132,110,211,132,138,236,110,193,136,227,190,94,97,115",
+                        "endOffsets": "207,395,528,639,851,984,1123,1558,1669,1863,2000,2228,2419,2514,2612,2728"
+                    }
+                }
+            ]
+        }
+    ]
+}

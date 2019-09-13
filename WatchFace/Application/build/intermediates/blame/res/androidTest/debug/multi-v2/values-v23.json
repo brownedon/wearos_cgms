@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Application\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.0.0.aar\\9bf81760953d512efadb5c54953db3c9\\res\\values-v23\\values.xml",
+                    "from": {
+                        "startLines": "4,8,12,20",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "211,373,537,938",
+                        "endLines": "7,11,19,21",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "372,536,937,1037"
+                    },
+                    "to": {
+                        "startLines": "37,41,48,56",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2646,2812,3130,3535",
+                        "endLines": "40,44,55,57",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "2807,2975,3530,3634"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\781bdc9dd83603f0f3de73e69e7174d3\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-25.0.1.aar\\10cce21bc1409997779c33bbd93f67e6\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "2980",
+                        "endLines": "47",
+                        "endColumns": "12",
+                        "endOffsets": "3125"
+                    }
+                }
+            ]
+        }
+    ]
+}

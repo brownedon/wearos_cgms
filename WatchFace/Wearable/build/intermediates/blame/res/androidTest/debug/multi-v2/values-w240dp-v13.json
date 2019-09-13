@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w240dp-v13\\values-w240dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brown\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.0.0.aar\\9bf81760953d512efadb5c54953db3c9\\res\\values-w240dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "222,270,318,368",
+                        "endColumns": "47,47,49,47",
+                        "endOffsets": "269,317,367,415"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,159,213",
+                        "endColumns": "51,51,53,51",
+                        "endOffsets": "102,154,208,260"
+                    }
+                }
+            ]
+        }
+    ]
+}

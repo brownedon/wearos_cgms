@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Dec 14 08:58:48 EST 2017
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

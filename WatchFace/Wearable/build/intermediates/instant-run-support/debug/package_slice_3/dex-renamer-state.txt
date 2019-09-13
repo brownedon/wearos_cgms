@@ -1,0 +1,4 @@
+#Wed Dec 27 14:48:03 EST 2017
+base.0=C\:\\Users\\brown\\Documents\\dev\\android\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+path.0=classes.dex
+renamed.0=classes.dex
